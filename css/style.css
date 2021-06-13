@@ -1,0 +1,18 @@
+tr:nth-child(odd) td{
+ background-color: #bbbbbb;
+}
+tr:nth-child(even) td{
+ background-color: #ffffff;
+}
+td{
+    padding: 5px 15px;
+    font-size: 18px;
+    margin-right: 10px;
+}
+body{
+    line-height: 2;
+}
+
+.common{
+    margin: 10px;
+}
